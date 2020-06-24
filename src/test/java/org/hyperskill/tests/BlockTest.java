@@ -1,5 +1,6 @@
 package org.hyperskill.tests;
 
+import junit.framework.TestCase;
 import org.hyperskill.models.Block;
 import org.junit.Assert;
 import org.junit.Assume;
