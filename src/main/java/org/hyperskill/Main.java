@@ -1,6 +1,7 @@
 package org.hyperskill;
 
 import org.hyperskill.models.Block;
+import org.hyperskill.models.Miner;
 
 import javax.crypto.BadPaddingException;
 import javax.crypto.IllegalBlockSizeException;
@@ -18,6 +19,6 @@ public class Main {
             BadPaddingException,
             NoSuchAlgorithmException,
             InvalidKeyException {
-        
+
     }
 }
